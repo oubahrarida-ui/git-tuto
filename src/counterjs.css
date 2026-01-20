@@ -28,3 +28,22 @@
   color: rgb(153, 134, 217);
   border: none;
 }
+
+.btn:hover{
+  background-color: rgb(69, 5, 69);
+  color: rgb(153, 134, 217);
+  border: none;
+}
+
+.btn{
+  font-size: x-large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding:20px 30px;
+  margin: 10px;
+  background-color: rgb(153, 134, 217);
+  color: rgb(69, 5, 69);
+  border: solid 4px rgb(69, 5, 69);
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.80s;
+}
