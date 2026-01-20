@@ -47,3 +47,10 @@
   cursor: pointer;
   transition: all 0.80s;
 }
+
+
+.btn:hover{
+  background-color: rgb(69, 5, 69);
+  color: rgb(153, 134, 217);
+  border: none;
+}
