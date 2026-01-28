@@ -28,3 +28,6 @@ resetbtn.onclick = function(){
 
 
 let ount = 0
+
+let oundt = 0
+
